@@ -13,7 +13,7 @@ We’ve already shipped the core collaboration interface and validated demand (3
 
 The result: ORBIT becomes the engagement and growth layer for every app on Zircuit. Measurable outcomes — campaigns that convert budgets into real users, transparent attribution, and transaction-heavy activity for the network.
 
-ORBIT is part of our larger ecosystem initiatives that evolve into THE CORE, a Web3 virtual world of fun and engagement. We selected the Ecosystem Grant since our solutions are already being built; this way we focus on scaling growth while others receive funding to build infra — and maybe launch with us :)
+ORBIT is part of our larger ecosystem initiatives that evolve into THE CORE, a Web3 virtual world of fun and engagement. We selected the Ecosystem Grant since our solutions are already being built; this way we focus on scaling growth while others can receive funding to build — and maybe launch with us :)
 
 ## Table of Contents
 
