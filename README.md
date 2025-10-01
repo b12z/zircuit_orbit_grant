@@ -9,7 +9,7 @@
 
 ORBIT makes growth in Web3 real — not fake clicks, not task spam, but verified users and instant ROI.
 
-We’ve already shipped the core collaboration interface and validated demand (300+ KOLs, 30+ projects). Now we extend ORBIT with further automation and pump-fun engagement layers to keep users engaged and active. On Zircuit, we propose to launch an on-chain rewards extension: projects deposit budgets into escrow, actions are tracked via API, and KOLs or players withdraw instantly.
+We’ve already shipped the core collaboration interface and validated demand (300+ KOLs, 30+ projects). Now we extend ORBIT with further automation and pump-fun-style engagement layers to keep users engaged and active. On Zircuit, we propose to launch an on-chain rewards extension: projects deposit budgets into escrow, actions are tracked via API, and KOLs or players withdraw instantly.
 
 The result: ORBIT becomes the engagement and growth layer for every app on Zircuit. Measurable outcomes — campaigns that convert budgets into real users, transparent attribution, and transaction-heavy activity for the network.
 
