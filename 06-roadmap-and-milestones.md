@@ -1,40 +1,34 @@
-# Instructions
-
-- remove the instructions section when done
-- describe the current development state of the project?
-- explaint needs to be done for the successful launch of the project?
-- tell us about your anticipated timeline for the completion? 
-- propose milestones for the grant payout
-    - at most 25% can be used pre-deployment
-    - user adoption and traction-oriented milestones are preferred
-- stay close to the recommended length (1 page)
-
 # Roadmap and Budget
 
 ## Current Development State
 
-Uniswap V2 is currently at the prototype stage, with core smart contract logic defined and preliminary security testing completed in a local environment.
+ORBIT’s collaboration engine is live with 300+ KOLs and 30+ projects onboarded. Photon Telegram minigame beta-tested with 4,000 users at zero marketing spend. The on-chain rewards extension and escrow contract architecture are designed.
 
 ## Tasks Required for Successful Launch
 
-* Full security audits and contract optimization.
-* Final implementation of flash swaps and price oracle functionality.
-* Development and deployment of the front-end user interface.
-* Community outreach, documentation, and initial liquidity seeding.
+Finalize and audit Zircuit-based escrow and payout contracts.
+Deploy the on-chain rewards extension on Zircuit testnet, then mainnet.
+Scale Photon Telegram app with referral and viral loops.
+Launch KOL highlight section and affiliate dashboard.
+Run ecosystem-wide campaigns with case studies and Zircuit co-marketing.
 
 ## Anticipated Timeline
 
-* **Month 1-2:** Final smart contract development and audit.
-* **Month 3:** Front-end integration, comprehensive testing, and mainnet deployment.
-* **Month 4-5:** Community engagement, liquidity incentivization, and user onboarding.
+November 2025: Testnet deployment of on-chain rewards contracts on Zircuit.
+December 2025: Photon Telegram app launched at scale, targeting 50k users.
+December 2025: Run KOL hype campaigns (150+ KOLs, ~3M reach); launch $IFL utilities.
+January 2026: Ecosystem-wide acquisition campaigns targeting 100k gamers.
+By March 2026: Expand to 1,000+ active KOLs and onboard 500k users into ORBIT.
 
 ## Proposed Milestones and Budget
 
-| Milestone                                | Timeline  | Budget Allocation |
-| ---------------------------------------- | --------- | ----------------- |
-| Smart contract audit & test deployment   | Month 1-2 | \$37,500 (25%)    |
-| Mainnet launch & initial liquidity pools | Month 3   | \$30,000 (20%)    |
-| Achieve \$1M liquidity in pools          | Month 4   | \$40,000 (27%)    |
-| Reach \$5M cumulative trading volume     | Month 5   | \$42,500 (28%)    |
+| Milestone                                           | Timeline       | Budget Allocation |
+| --------------------------------------------------- | -------------- | ----------------- |
+| Testnet deployment of Zircuit on-chain rewards      | Nov 2025       | $6,750 (15%)      |
+| Photon Telegram app launch, targeting 50k users     | Dec 2025       | $6,750 (15%)      |
+| Mainnet deployment + 150 KOL campaigns + $IFL live  | Dec 2025       | $9,000 (20%)      |
+| 100k gamers onboarded via ecosystem campaigns       | Jan 2026       | $11,250 (25%)     |
+| 1,000+ active KOLs and 500k users onboarded to ORBIT| Mar 2026       | $11,250 (25%)     |
 
-Total Budget: **\$150,000**
+
+Total Budget: **\$45,000**
