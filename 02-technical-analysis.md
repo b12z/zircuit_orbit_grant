@@ -1,13 +1,3 @@
-# Instructions
-
-- remove the instructions section when done
-- provide brief technical outline of your project
-- make us understand the technical novelty in your solution
-- demonstrate the technical feasibility
-- talk about the required infrastructure needed
-- describe is the anticipated difficulty of executing 
-- stay close to the recommended length (2 pages)
-
 # 02. Technical Analysis
 
 ## Technical Outline
