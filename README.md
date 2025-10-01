@@ -29,4 +29,4 @@ ORBIT is part of our larger ecosystem initiatives that evolve into THE CORE, a W
 * **Website:** [orbit.thecore.network](https://orbit.thecore.network)
 * **Name:** Mate Brezovszki
 * **Email:** [mate@thecore.network](mailto:mate@thecore.network)
-* **Telegram:** [@brezomate](https://t.me/brezomet)
+* **Telegram:** [@brezomate](https://t.me/brezomate)
