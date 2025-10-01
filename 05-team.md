@@ -1,23 +1,19 @@
-# Instructions
-
-- remove the instructions section when done
-- talk about the team and their experience
-- tell us about the special sauce that will make you successful
-- stay close to the recommended length (0.5 page)
-
-# Team
-
 ## Team and Experience
 
-* **Gandalf the Grey – Chief Architect**
-  Gandalf brings deep technical mastery and strategic foresight in decentralized systems architecture, with extensive experience in protocol design, cryptographic security, and blockchain governance. His proven track record in building resilient, trustless solutions is unmatched.
+**Mate Brezovszki — Founder & CEO**
+12+ years in banking/fintech; built and shipped core banking systems. Strategic advisor at Cryptio, where he helped secure a $25M raise. Award-winning DEFI founder (2019). 
 
-* **Aragorn – Product Lead**
-  Aragorn's leadership and product execution skills are central to the Uniswap V2 vision. With extensive experience leading diverse teams, managing complex projects, and driving user-centric product development, Aragorn ensures disciplined delivery aligned with user needs.
+**György Gardian — Co-founder & CTO**
+10+ years in engineering; scaled Web2 and Web3 infra. Built ORBIT MVP in 2 months — execution speed and technical depth proven.
 
-* **Legolas – Lead Developer**
-  Legolas combines precise technical execution with exceptional agility in Ethereum smart contract development. Known for meticulous code quality, rapid iteration, and sharp debugging skills, he ensures Uniswap V2’s codebase remains secure, efficient, and reliable.
+**Jason D. Janicki — Creative Director**
+18+ years in AAA gaming; shipped titles reaching 30M+ MAU (e.g., Frontierville). Expert in gamified engagement and player retention loops.
+
+**Rosu — Web3 Growth**
+Deep GameFi & KOL networks across SEA, full-stack developers, AI/analytics specialists, and game designers — covering distribution, product, and scaling.
 
 ## Special Sauce
 
-The team uniquely combines Gandalf’s visionary protocol expertise, Aragorn’s strategic product execution, and Legolas’s technical precision and agility—forming a resilient, innovative, and efficient unit positioned to revolutionize decentralized exchanges.
+**NeoBanking-grade rigor → Web3 Growth rails.** We’ve run high-throughput, pen-tested financial systems; we bring that standard here.
+
+**Quality > quantity.** 
